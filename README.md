@@ -189,5 +189,7 @@ Verify with `pw-top` and `/proc/asound/card1/pcm*/sub0/status` while running med
 
 ---
 
-## 4. License
-Released under the [MIT License](LICENSE). Authored by **Bill Fullen** ([@Tethtibis](https://github.com/Tethtibis)).
+## 4. Provenance & License
+* **Engineering & Hardware Verification:** **Bill Fullen** ([@Tethtibis](https://github.com/Tethtibis))
+* **Diagnostic & Packaging Orchestration:** Diagnosed, stress-tested, and verified via **[The Rykr Framework (v4.0)](https://github.com/Tethtibis/rykr-framework)** — a deterministic Linux systems-diagnostic and modular DevOps orchestration architecture engineered by Bill Fullen (utilizing a Gemini reasoning backend under the 4-Stage Genesis Pipeline).
+* **License:** Released under the [MIT License](LICENSE).
